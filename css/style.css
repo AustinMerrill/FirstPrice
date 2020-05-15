@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1 {
+    color: #2AB3B1;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-bottom: 24px;
+}
+
+.h3 {
+    color: #c0df33;
+    padding-left: 20px;
+    margin-bottom: 16px;
+   
+}
+.firstParagrapgh {
+    color: #9aa7be;
+    font-size: 14px;
+    line-height: 1.857;
+    padding-left: 20px;
+
+
+}
+h2 {
+    color: #ffffff;
+}
+main {
+    /* background-color: #2Ab3b1; */
+    /* padding-left: 20px; */
+}
+.signUp {
+    height: 56px;
+    width: 263px;
+    background-color: #c0df33;
+    color:#ffffff;
+    margin-bottom: 24px;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 26px;
+}
+.bottomPart {
+   opacity: 75%;
+}
+
+.lastP {
+    color: #ffffff;
+    padding-bottom: 30px;
+}
+
+.number {
+   font-size: 32px;
+   color: #ffffff;
+}
+
+.perMonth {
+    opacity: 50%;
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+.BP, .subscription {
+    padding: 24px;
+}
+
+.BP {
+    background-color: #23b9b7;
+   
+}
+.subscription {
+    background-color: #2AB3B1;
+    padding-bottom: 24px;
+}
+
+.WhyUs {
+    margin-bottom: 24px;
+}
+
+@media (min-width 800px;){
+
+    display: grid;
+}
