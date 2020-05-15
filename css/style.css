@@ -82,7 +82,20 @@ h3 {
     margin-bottom: 24px;
 }
 
-@media (min-width 800px;){
+@media (min-width: 600px){
 
-    display: grid;
+    main {
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        }
+
+    h2 {
+        margin-top: 40px;
+    }
+    .bottomPart {
+        margin-left: 40px;
+    }
+    .WhyUs {
+        margin-left: 40px;
+    }
 }
